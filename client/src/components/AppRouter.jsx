@@ -1,5 +1,5 @@
 import { Route, Routes, useLocation } from 'react-router'
-import { Home, Scan } from '@/pages'
+import { Home, Scan, Scan1 } from '@/pages'
 
 const AppRouter = () => {
     const location = useLocation()
